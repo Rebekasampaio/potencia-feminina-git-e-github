@@ -3,3 +3,7 @@
 ### git status
 
 ### git add .
+
+### git add[caminho]
+
+### git commit
