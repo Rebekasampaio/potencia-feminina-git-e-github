@@ -6,4 +6,4 @@
   git checkout .
   git checkout nome da branch para voltar a outra branch
 
-- criando branch pelo github
+- criando branch pelo github.
